@@ -1,0 +1,11 @@
+For To-Do List Web Application, I have choose Laravel to build it.
+Here is the explaination how to open To-Do List Web Application.
+
+1. Install Visual Studio Code, Laragon and SqlyogCommunity.
+2. Download the zip file from github. Then unzip and copy it.
+3. Go to where you put the file laragon after installed. Then click the file and choose www file and paste the to-do-list file in there.
+4. Open VSC and select folder to-do-list. 
+5. Open Laragon and start. Then open SqlyogCommunity and create new database name asd1. 
+6. Then open terminal in VSC and type command php artisan migrate. The database will shown in asd1 database.
+6. Then type command npm run buid and npm run dev. If can't type command npm install vite --save-dev.
+7. Open laragon Right click and choose www then select to-do-list. It will go the webpage.
